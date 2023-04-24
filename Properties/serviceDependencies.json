@@ -7,6 +7,10 @@
       "type": "mssql",
       "connectionId": "SPCollege",
       "dynamicId": null
+    },
+    "identityapp1": {
+      "type": "identityapp",
+      "dynamicId": null
     }
   }
 }

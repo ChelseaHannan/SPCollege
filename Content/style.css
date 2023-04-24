@@ -1,0 +1,21 @@
+﻿.hero-h1 {
+    color: white;
+    margin: auto;
+    width: auto;
+    padding-top: 5em;
+    padding-bottom: 1em;
+
+}
+
+.hero-div {
+
+}
+
+.navbar {
+    background-color: #4a23d3;
+    border-color: #4a23d3;
+}
+
+.navbar-brand {
+    color: #aaffb8;
+}

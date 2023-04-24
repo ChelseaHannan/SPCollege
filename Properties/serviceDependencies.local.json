@@ -8,6 +8,9 @@
       "type": "mssql.local",
       "connectionId": "SPCollege",
       "dynamicId": null
+    },
+    "identityapp1": {
+      "type": "identityapp.default"
     }
   }
 }
